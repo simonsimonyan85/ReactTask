@@ -1,0 +1,19 @@
+
+.tDiv {
+  display: inline-block;
+  vertical-align: text-top;
+  margin: 0 auto;
+  position: bottom;
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  min-width: 50px;
+  min-height: 50px;
+  border: 1px solid #000;
+  padding: 2px;
+  margin: 8px;
+}
